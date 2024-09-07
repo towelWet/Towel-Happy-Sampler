@@ -2,6 +2,8 @@
 
 Welcome to the Towel Happy Sampler, a JUCE-based audio plugin designed for digital audio workstations (DAWs). This document provides an overview of the plugin, installation instructions, and basic usage guidelines.
 
+USE JUCE 6.1.6
+
 ## Overview
 
 Towel Happy Sampler is a versatile plugin suitable for various audio processing tasks. It integrates seamlessly with any DAW that supports VST3, AU, or AAX plugin formats, providing a straightforward interface for audio manipulation.
